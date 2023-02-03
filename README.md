@@ -2,6 +2,8 @@
 
 This is a simple implementation of a Gaussian Naive Classifier in python. Part of the probabilistic classifers [1], can acheive high accuracy on the given classification tasks.
 
+Below the classifier is trained on the iris dataset[3] ```x```, than random samples are classified with it ```o```. 
+
 <p align="center"> 
   <img src="info/results.png" alt="" width="500"></a>
 </p>
