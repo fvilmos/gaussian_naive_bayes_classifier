@@ -18,7 +18,7 @@ Below the classifier is trained on the iris dataset[3] ```x```, than random samp
 6. use a data point to predict the class ```gnb.predict(sample)```
 
 
-See details of a working example in ```naive_bayes.ipynb```, uses the iris [2] dataset for classifications.
+See details of a working example in ```naive_bayes.ipynb```, uses the iris [3] dataset for classifications.
 
 ### Resources
 1. [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
